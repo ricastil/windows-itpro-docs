@@ -2,7 +2,8 @@
 title: Manage Windows upgrades with Upgrade Readiness (Windows 10)
 description: Provides an overview of the process of managing Windows upgrades with Upgrade Readiness.
 ms.prod: w10
-audience: itproauthor: greg-lindsay
+audience: itpro
+author: greg-lindsay
 ms.date: 04/25/2017
 ms.reviewer: 
 manager: laurawi
@@ -11,6 +12,9 @@ ms.topic: article
 ---
 
 # Manage Windows upgrades with Upgrade Readiness
+
+>[!IMPORTANT]
+>The Upgrade Readiness and Device Health solutions of Windows Analytics are being retired on January 31, 2020. [Get started with Update Compliance](../update/update-compliance-get-started.md) will continue to be supported. For more information, see [Windows Analytics retirement on January 31, 2020](https://support.microsoft.com/help/4521815/windows-analytics-retirement).
 
 Upgrading to new operating systems has traditionally been a challenging, complex, and slow process for many enterprises. Discovering applications and drivers and then testing them for potential compatibility issues have been among the biggest pain points.
 
